@@ -1,0 +1,8 @@
+qwerty:integer;:logic:boolean;
+[let]qwerty=15d:flag:boolean;
+[let]logic=true
+output(logicNEflagNEfalseplus1dplus1dmult2hor4h)
+{ifflagEQtrue then[let]flag=false else [let]flag=true end_else;input(qwerty logic)}
+for(qwertyNE10d;trueNEfalse;2hEQ17d) [let]qwerty=123d
+do while true [let]qwerty=qwertyplus1d loop
+(*There are some comments*)end
